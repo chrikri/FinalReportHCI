@@ -54,9 +54,14 @@
 ## Δικτυογραφία
 περιλαμβάνει ιστοσελίδες, κομμάτια κώδικα ή tutorials που βασίστηκα για την άσκηση.
 
+
 https://www.w3schools.com/
+
 https://www.w3schools.com/bootstrap/bootstrap_get_started.asp
+
 https://responsivevoice.org/
+
 https://css-tricks.com/box-sizing/
+
 https://www.youtube.com/
 
