@@ -22,6 +22,8 @@
  
  Παραδοτέο 1 https://github.com/chrikri/hci/pull/1
  
+ Παραδοτέο 2 https://github.com/courses-ionio/hci/pull/969#event-2037570972
+ 
  
  ## Αποτελέσματα με λεζάντες σε ενδεικτικές οθόνες και animated gif
  
